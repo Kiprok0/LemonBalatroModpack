@@ -1,2 +1,2 @@
 # LemonBalatroModpack
-Mon modâck pour Balatro
+Mon modPack pour Balatro
